@@ -1,0 +1,13 @@
+C:\Users\x-7px\Desktop 2\OsuSongFetcherGUI - WPF\OsuSongFetcherGUI - WPF\bin\Debug\OsuSongFetcherGUI - WPF.exe.config
+C:\Users\x-7px\Desktop 2\OsuSongFetcherGUI - WPF\OsuSongFetcherGUI - WPF\bin\Debug\OsuSongFetcherGUI - WPF.exe
+C:\Users\x-7px\Desktop 2\OsuSongFetcherGUI - WPF\OsuSongFetcherGUI - WPF\bin\Debug\OsuSongFetcherGUI - WPF.pdb
+C:\Users\x-7px\Desktop 2\OsuSongFetcherGUI - WPF\OsuSongFetcherGUI - WPF\obj\Debug\MainWindow.baml
+C:\Users\x-7px\Desktop 2\OsuSongFetcherGUI - WPF\OsuSongFetcherGUI - WPF\obj\Debug\MainWindow.g.cs
+C:\Users\x-7px\Desktop 2\OsuSongFetcherGUI - WPF\OsuSongFetcherGUI - WPF\obj\Debug\App.g.cs
+C:\Users\x-7px\Desktop 2\OsuSongFetcherGUI - WPF\OsuSongFetcherGUI - WPF\obj\Debug\OsuSongFetcherGUI - WPF_MarkupCompile.cache
+C:\Users\x-7px\Desktop 2\OsuSongFetcherGUI - WPF\OsuSongFetcherGUI - WPF\obj\Debug\OsuSongFetcherGUI - WPF.g.resources
+C:\Users\x-7px\Desktop 2\OsuSongFetcherGUI - WPF\OsuSongFetcherGUI - WPF\obj\Debug\OsuSongFetcherGUI___WPF.Properties.Resources.resources
+C:\Users\x-7px\Desktop 2\OsuSongFetcherGUI - WPF\OsuSongFetcherGUI - WPF\obj\Debug\OsuSongFetcherGUI - WPF.csproj.GenerateResource.Cache
+C:\Users\x-7px\Desktop 2\OsuSongFetcherGUI - WPF\OsuSongFetcherGUI - WPF\obj\Debug\OsuSongFetcherGUI - WPF.exe
+C:\Users\x-7px\Desktop 2\OsuSongFetcherGUI - WPF\OsuSongFetcherGUI - WPF\obj\Debug\OsuSongFetcherGUI - WPF.pdb
+C:\Users\x-7px\Desktop 2\OsuSongFetcherGUI - WPF\OsuSongFetcherGUI - WPF\obj\Debug\OsuSongFetcherGUI - WPF.csprojResolveAssemblyReference.cache

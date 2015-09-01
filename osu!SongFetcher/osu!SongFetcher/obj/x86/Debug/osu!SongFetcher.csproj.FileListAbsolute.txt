@@ -1,0 +1,22 @@
+C:\Documents and Settings\User\Desktop\osu!SongFetcher\osu!SongFetcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\osu!SongFetcher\osu!SongFetcher\bin\Debug\osu!SongFetcher.exe
+C:\Documents and Settings\User\Desktop\osu!SongFetcher\osu!SongFetcher\bin\Debug\osu!SongFetcher.pdb
+C:\Documents and Settings\User\Desktop\osu!SongFetcher\osu!SongFetcher\obj\x86\Debug\osu!SongFetcher.exe
+C:\Documents and Settings\User\Desktop\osu!SongFetcher\osu!SongFetcher\obj\x86\Debug\osu!SongFetcher.pdb
+F:\Prog-C#\osu!SongFetcher\osu!SongFetcher\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Prog-C#\osu!SongFetcher\osu!SongFetcher\bin\Debug\osf.exe
+F:\Prog-C#\osu!SongFetcher\osu!SongFetcher\bin\Debug\osf.pdb
+F:\Prog-C#\osu!SongFetcher\osu!SongFetcher\obj\x86\Debug\osf.exe
+F:\Prog-C#\osu!SongFetcher\osu!SongFetcher\obj\x86\Debug\osf.pdb
+E:\Prog\C#\osu!SongFetcher\osu!SongFetcher\obj\x86\Debug\osf.exe
+E:\Prog\C#\osu!SongFetcher\osu!SongFetcher\obj\x86\Debug\osf.pdb
+E:\Prog\C#\osu!SongFetcher\osu!SongFetcher\bin\Debug\osf.exe
+E:\Prog\C#\osu!SongFetcher\osu!SongFetcher\bin\Debug\osf.pdb
+E:\Prog\C#\osu!SongFetcher\osu!SongFetcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\x-7px\Desktop 2\osu!SongFetcher\osu!SongFetcher\obj\x86\Debug\osf.exe
+C:\Users\x-7px\Desktop 2\osu!SongFetcher\osu!SongFetcher\obj\x86\Debug\osf.pdb
+C:\Users\x-7px\Desktop 2\osu!SongFetcher\osu!SongFetcher\bin\Debug\osf.exe
+C:\Users\x-7px\Desktop 2\osu!SongFetcher\osu!SongFetcher\bin\Debug\osf.pdb
+C:\Users\x-7px\Desktop 2\osu!SongFetcher\osu!SongFetcher\obj\x86\Debug\osu!SongFetcher.csprojResolveAssemblyReference.cache
+C:\Users\x-7px\Desktop 2\osu!SongFetcher\osu!SongFetcher\bin\Debug\nonficLib.dll
+C:\Users\x-7px\Desktop 2\osu!SongFetcher\osu!SongFetcher\bin\Debug\nonficLib.pdb

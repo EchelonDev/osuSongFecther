@@ -1,0 +1,9 @@
+C:\Users\x-7px\Desktop 2\osuSongFetcherGUI\osuSongFetcherGUI\bin\Debug\osuSongFetcherGUI.exe.config
+C:\Users\x-7px\Desktop 2\osuSongFetcherGUI\osuSongFetcherGUI\bin\Debug\osuSongFetcherGUI.exe
+C:\Users\x-7px\Desktop 2\osuSongFetcherGUI\osuSongFetcherGUI\bin\Debug\osuSongFetcherGUI.pdb
+C:\Users\x-7px\Desktop 2\osuSongFetcherGUI\osuSongFetcherGUI\obj\Debug\osuSongFetcherGUI.csprojResolveAssemblyReference.cache
+C:\Users\x-7px\Desktop 2\osuSongFetcherGUI\osuSongFetcherGUI\obj\Debug\osuSongFetcherGUI.Form1.resources
+C:\Users\x-7px\Desktop 2\osuSongFetcherGUI\osuSongFetcherGUI\obj\Debug\osuSongFetcherGUI.Properties.Resources.resources
+C:\Users\x-7px\Desktop 2\osuSongFetcherGUI\osuSongFetcherGUI\obj\Debug\osuSongFetcherGUI.csproj.GenerateResource.Cache
+C:\Users\x-7px\Desktop 2\osuSongFetcherGUI\osuSongFetcherGUI\obj\Debug\osuSongFetcherGUI.exe
+C:\Users\x-7px\Desktop 2\osuSongFetcherGUI\osuSongFetcherGUI\obj\Debug\osuSongFetcherGUI.pdb
